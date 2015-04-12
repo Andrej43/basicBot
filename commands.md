@@ -40,7 +40,7 @@ Bouncer+
 |!songstats | | toggle song statistics |
 |!unlock | | unlock the waitlist |
 |!welcome | | toggle the welcome message on user join |
-
+|!rulet | | Rulet je pokrenut |
 Bouncer
 -------
 
