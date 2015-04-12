@@ -79,7 +79,7 @@ Bouncer
 |!unmute | | unmute user |
 |!voteratio | @user | display the vote statistic for a user |
 |!whois | @user | returns plug related information about user |
-
+|!rulet | |Počinje rulet. |
 Resident DJ
 -----------
 
